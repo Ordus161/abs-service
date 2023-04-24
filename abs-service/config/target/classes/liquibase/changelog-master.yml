@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/scripts/2023_02_27_migrations_V1_create_card.sql
+encoding: "UTF-8"
